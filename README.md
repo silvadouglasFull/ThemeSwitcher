@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm i`
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -44,3 +45,23 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## About this project 
+With this project you go to learn how create a button that switch application theme.
+
+Configure a dark and light theme in your application with a Theme Switcher created with ReactJS, Styled Components and TypeScript.
+
+## Libraries used in this project
+    "@types/styled-components": "^5.1.24",
+    "polished": "^4.1.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0",
+    "react-switch": "^6.0.0",
+    "styled-components": "^5.3.5",
+
+
+Palette Colors 
+https://coolors.co/palette/001219-005f73-0a9396-94d2bd-e9d8a6-ee9b00-ca6702-bb3e03-ae2012-9b2226
+ 
+ ## developed by Douglas Silva
